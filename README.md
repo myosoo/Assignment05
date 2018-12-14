@@ -1,2 +1,2 @@
 # Assignment05
-Assignment05, Jun-ha Lee
+This is a Data-Mining class project at Chung-Ang University
